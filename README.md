@@ -1,1 +1,2 @@
-# Oma-projekti - Omia harjoitusprojekteja data-analytiikkaan.
+# Oma-projekti
+Omia harjoitusprojekteja data-analytiikkaan.
